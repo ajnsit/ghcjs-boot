@@ -84,7 +84,7 @@
 	url = http://github.com/ghc/packages-extensible-exceptions.git
 [submodule "boot/transformers"]
 	path = boot/transformers
-	url = http://git.haskell.org/darcs-mirrors/transformers.git
+	url = https://github.com/ajnsit/transformers.git
 [submodule "boot/async"]
 	path = boot/async
 	url = https://github.com/simonmar/async.git
